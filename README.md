@@ -7,7 +7,7 @@ The main purpose of the repository is to prepare for interviews and keep all at 
 If you find something that can improve in my repo or you see some mistakes - you are welcome. 
 
 ## TODO:
-    - [ ] K-means
-    - [ ] K-nearest neighbor
-    - [ ] Decision tree classifier
-    - [ ] Curently looking for new algos   
+    [ ] K-means
+    [ ] K-nearest neighbor
+    [ ] Decision tree classifier
+    [ ] Curently looking for new algos   
